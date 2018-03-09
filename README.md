@@ -1,2 +1,2 @@
 # pyfoil
-aer
+aerofoil data processor
