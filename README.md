@@ -1,0 +1,2 @@
+# pyfoil
+aer
